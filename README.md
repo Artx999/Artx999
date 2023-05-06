@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="wave.gif" width="32px">, I'm Artx999 (Mathias)</h1>
-<h3 align="center">A full stack developer from Norway</h3>
+<h1 align="left">Hi <img src="wave.gif" width="32px">, I'm Artx999 (Mathias)</h1>
+<h3 align="left">A full stack developer from Norway</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artx999&label=Profile%20views&color=720eb4&style=flat" alt="artx999" /> </p>
 
