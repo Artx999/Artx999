@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artx999&label=Profile%20views&color=720eb4&style=flat" alt="artx999" /> </p>
 
+<details>
+<summary align="left">Trophies:</summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artx999" alt="artx999" /></a> </p>
+</details>
 
 <details>
 <summary align="left">Connect with me:</summary>
