@@ -2,7 +2,7 @@
 
 ## A full stack developer from Norway
 - ‍💻 Software developer at Lawo Lab Dev AS
-- 📚 (almost) Graduated Computer Engineering student from UiA (University of Agder)
+- 📚 Graduated Computer Engineering student from UiA (University of Agder)
 - 💘 Deeply in love with .NET
 - 🔨 Experience across a variety of languages and technologies
 
