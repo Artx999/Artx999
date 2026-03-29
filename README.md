@@ -1,7 +1,7 @@
 # Hi <img src="wave.gif" width="32px" alt="waving hand">, I'm Artx999 (Mathias)
 
 ## A full stack developer from Norway
-- ‍💻 Software developer at Lawo Lab Dev AS
+- ‍💻 Software developer at Seal Engineering
 - 📚 Graduated Computer Engineering student from UiA (University of Agder)
 - 💘 Deeply in love with .NET
 - 🔨 Experience across a variety of languages and technologies
